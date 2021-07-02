@@ -36,7 +36,7 @@
 
 <p align="center">
 <a href="https://https://muratcan-yuksel.github.io/portfolio-1//"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-https%3A%2F%2Fmuratcan--yuksel.github.io%2Fportfolio--1%2F-red"></a>
-<a href="https://www.linkedin.com/in/murat-can-y%C3%BCksel-2b1347119/"><img alt="LinkedIn" src="https://www.linkedin.com/in/murat-can-y%C3%BCksel-2b1347119/"></a>
+<a href="https://www.linkedin.com/in/murat-can-y%C3%BCksel-2b1347119/"><img alt="https://img.shields.io/badge/LinkedIn-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmurat--can--y%25C3%25BCksel--2b1347119%2F-blue"></a>
 <a href="mailto:muratcanyukselpro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-muratcanyukselpro@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
