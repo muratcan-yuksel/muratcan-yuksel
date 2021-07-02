@@ -5,7 +5,9 @@
 
 I'm a self-taught web developer focusing on React.js. I follow The Odin Project's curriculum to avoid tutorial hell and learn by making projects. You can find my portfolio here => <a href="https://https://muratcan-yuksel.github.io/portfolio-1//"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-https%3A%2F%2Fmuratcan--yuksel.github.io%2Fportfolio--1%2F-red"></a>
 
-I also enjoy sharing what I've learned during my studies in my blog. I write in English and in French. You can access my blog here => https://img.shields.io/badge/Blog-https%3A%2F%2Fmuratcanyuksel.hashnode.dev%2F-blueviolet
+I also enjoy sharing what I've learned during my studies in my blog. I write in English and in French. You can access my blog here => 
+<a href="muratcanyuksel.hashnode.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Blog-https%3A%2F%2Fmuratcanyuksel.hashnode.dev%2F-blueviolet"></a>
+
 
 During my education, I had the opportunity to enjoy various scholarships and study, work, live in different European countries like Hungary, Belgium, France and Estonia. I hold a Master's degree in Semiotics from the University of Tartu in Estonia , in which I studied one year of that Master's in l'Université Bordeaux-Montaigne in France to perfect my French. I speak English, French and Turkish fluently, can read the Cryllic alphabet, understand some Russian, Hungarian and Estonian.
 
