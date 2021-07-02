@@ -21,6 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Firestore]
 
 
 <br/>
@@ -32,11 +33,11 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3>  &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://https://muratcan-yuksel.github.io/portfolio-1//"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-https%3A%2F%2Fmuratcan--yuksel.github.io%2Fportfolio--1%2F-red"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmurat--can--y%25C3%25BCksel--2b1347119%2F-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/murat-can-y%C3%BCksel-2b1347119/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmurat--can--y%25C3%25BCksel--2b1347119%2F-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:muratcanyukselpro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-muratcanyukselpro@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
