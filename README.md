@@ -22,7 +22,7 @@ I speak : <br>
 
 I bloom wherever I'm planted, yet I feel more energetic in international, diverse environments.
 
--I'm a relaxed person who performs well also in pressure.
+-I'm a relaxed person who performs well also under pressure.
 
 -I try to live by the idea of continuous growth, that is, trying to learn new things all the time. I believe William Blake was quite right when he wrote "Expect poison from the standing water."
 
