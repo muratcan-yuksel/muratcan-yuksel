@@ -14,10 +14,10 @@ You can find my portfolio here => <a href="https://https://muratcan-yuksel.githu
 I also enjoy sharing what I've learned during my studies in my blog. I write in English and in French. You can access my blog here => 
 <a href="https://muratcanyuksel.hashnode.dev/"><img alt="Blog" src="https://img.shields.io/badge/Blog-https%3A%2F%2Fmuratcanyuksel.hashnode.dev%2F-blueviolet"></a>
 
-I speak :
--English
--French
--Turkish fluently
+I speak : <br>
+-English <br>
+-French <br>
+-Turkish fluently <br>
 -can read the Cryllic alphabet, understand some Russian, Hungarian and Estonian.
 
 I bloom wherever I'm planted, yet I feel more energetic in international, diverse environments.
