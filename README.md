@@ -9,7 +9,7 @@ I like problems. Solving them empowers me.
 
 I'm looking for a Javascript/React.js developer role.
 
-You can find my portfolio here => <a href="https://https://muratcan-yuksel.github.io/portfolio-1//"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-https%3A%2F%2Fmuratcan--yuksel.github.io%2Fportfolio--1%2F-red"></a>
+You can find my portfolio here => <a href="https://muratcan-yuksel.github.io/minimal/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-https%3A%2F%2Fmuratcan--yuksel.github.io%2Fportfolio--1%2F-red"></a>
 
 I also enjoy sharing what I've learned during my studies in my blog. I write in English and in French. You can access my blog here => 
 <a href="https://muratcanyuksel.hashnode.dev/"><img alt="Blog" src="https://img.shields.io/badge/Blog-https%3A%2F%2Fmuratcanyuksel.hashnode.dev%2F-blueviolet"></a>
