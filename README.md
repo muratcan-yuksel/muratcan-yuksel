@@ -3,10 +3,10 @@ I'm a self-taught web developer working primarily with VueJS.
 
 The technologies I currently use in my projects are:
 -Vanilla Javascript/React.js/Vuejs
--Ruby
--Bootstrap/React-Bootstrap/Chakra UI
+-Bootstrap/React-Bootstrap
 -Jest/React Testing Library
 -MongoDB/Google Firebase/Cloud Firestore
+-Postman
 -Chartjs/Apexcharts
 -HTML/CSS
 -Webpack
