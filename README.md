@@ -12,7 +12,7 @@ The technologies I currently use in my projects are:
 -Webpack
 -Git
 
-I'm also interested in Solidity language & blockchain development. I have a blog (built with NuxtJS) where I write about my Solidity learning journey => https://solidity.herokuapp.com/
+I'm also interested in Solidity language & blockchain development.
 
 -Soft skills? I have a Master's degree in communication/semiotics.
 
