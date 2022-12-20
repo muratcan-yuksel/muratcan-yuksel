@@ -19,8 +19,8 @@ The technologies I currently use in my projects are:
 
 -I have a Master's degree in semiotics.
 
-You can find my portfolio here
-=> https://muratcan-yuksel.github.io/portfolio/
+You can find my website here
+=> https://www.muratcanyuksel.tech/
 
 and my GitHub profile here
  => https://github.com/muratcan-yuksel
