@@ -1,14 +1,16 @@
 
-I'm a web3 developer. 
+I'm a full stack web developer. 
 
-Previously I've worked as a frontend developer using VueJS. While it's a good tool, I prefer React over it. So I'd like to say I'm more of a React developer.
+I build applications for the web as we know it as well as web3.
 
-Now I create fullstack web3 dApplications.
+I have a year of professional experience in front end development. I also write coding tutorials to blogs such as LogRocket blog.
+
 
 The technologies I currently use in my projects are:
--Vanilla Javascript/React.js/Vuejs
+-Vanilla Javascript/React.js/Vuejs/NextJS
+-NodeJS/ExpressJS
 -Solidity/Hardhat/EthersJs
--Bootstrap/React-Bootstrap
+-Bootstrap/Tailwind CSS
 -Jest/React Testing Library/Mocha/Chai
 -MongoDB/Google Firebase/Cloud Firestore
 -Postman
@@ -22,8 +24,6 @@ The technologies I currently use in my projects are:
 You can find my website here
 => https://www.muratcanyuksel.tech/
 
-and my GitHub profile here
- => https://github.com/muratcan-yuksel
 
 I have a tech-related blog where I write in English and in French. You can access it here
  => https://dev.to/muratcanyuksel
