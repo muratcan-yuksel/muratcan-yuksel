@@ -1,7 +1,7 @@
 
 I'm a full stack web developer. 
 
-I build applications for the web as we know it as well as web3.
+I build applications for the web as we know it as well as for web3.
 
 I have a year of professional experience in front end development. I also write coding tutorials to blogs such as LogRocket blog.
 
