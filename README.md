@@ -1,4 +1,4 @@
-I'm a full stack Javascript|Typescript|Solidity web developer. 
+I'm a full stack Javascript|Typescript|Solidity developer. 
 
 I develop full stack web applications with the following stack mostly => ReactJS + Tailwind CSS for the frontend, NestJS + MongoDB/Postgresql for the backend.
 
