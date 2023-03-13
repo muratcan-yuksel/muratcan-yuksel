@@ -1,29 +1,30 @@
+I'm a full stack Javascript|Typescript|Solidity web developer. 
 
-I'm a full stack web developer. 
+I develop full stack web applications with the following stack mostly => ReactJS + Tailwind CSS for the frontend, NestJS + MongoDB/Postgresql for the backend.
 
-I build applications for the web as we know it as well as for web3.
-
-I have a year of professional experience in front end development. I also write coding tutorials to blogs such as LogRocket blog.
-
+I also develop full stack blockchain applications with the following stack => Solidity, Hardhat and EthersJS.
 
 The technologies I currently use in my projects are:
--Vanilla Javascript/React.js/Vuejs/NextJS
--NodeJS/ExpressJS
--Solidity/Hardhat/EthersJs
--Bootstrap/Tailwind CSS
--Jest/React Testing Library/Mocha/Chai
--MongoDB/Google Firebase/Cloud Firestore
--Postman
--Chartjs/Apexcharts
--HTML/CSS
+-Vanilla Javascript|Typescript| React.js| Vuejs| NextJS
+- NodeJS| ExpressJS| NestJS| Sanity io| Strapi for headless CMS
+-Solidity| Hardhat| Ethers.js
+-Tailwind CSS| Bootstrap| Styled Components| Material UI
+-Jest| React Testing Library| Mocha| Chai| Playwright JS
+-MongoDB| Mongoose| REST| GraphQL| Postgresql| Prisma
+-Chartjs| Apexcharts
+-HTML| CSS
 -Webpack
 -Git
 
--I have a Master's degree in semiotics.
+-I have a Master's degree in communication/semiotics.
 
 You can find my website here
 => https://www.muratcanyuksel.tech/
 
+and my LinkedIn profile here
+ => https://www.linkedin.com/in/murat-can-y%C3%BCksel-2b1347119/
+
+I post coding tutorials on my Youtube channel => https://www.youtube.com/channel/UCP1hJydcsPZCwbn8rPiohsg
 
 I have a tech-related blog where I write in English and in French. You can access it here
  => https://dev.to/muratcanyuksel
