@@ -6,7 +6,7 @@ I also develop full stack blockchain applications with the following stack => So
 
 The technologies I currently use in my projects are:
 -Vanilla Javascript|Typescript| React.js| Vuejs| NextJS
-- NodeJS| ExpressJS| NestJS| Sanity io| Strapi for headless CMS
+-NodeJS| ExpressJS| NestJS| Sanity io| Strapi for headless CMS
 -Solidity| Hardhat| Ethers.js
 -Tailwind CSS| Bootstrap| Styled Components| Material UI
 -Jest| React Testing Library| Mocha| Chai| Playwright JS
