@@ -18,7 +18,7 @@ The technologies I currently use in my projects are:
 
 -I have a Master's degree in communication/semiotics.
 
-and my LinkedIn profile here
+You can find my LinkedIn profile here
  => https://www.linkedin.com/in/murat-can-y%C3%BCksel-2b1347119/
 
 I post coding tutorials on my Youtube channel => https://www.youtube.com/channel/UCP1hJydcsPZCwbn8rPiohsg
