@@ -18,9 +18,6 @@ The technologies I currently use in my projects are:
 
 -I have a Master's degree in communication/semiotics.
 
-You can find my website here
-=> https://www.muratcanyuksel.tech/
-
 and my LinkedIn profile here
  => https://www.linkedin.com/in/murat-can-y%C3%BCksel-2b1347119/
 
